@@ -34,7 +34,7 @@ const Hero = () => {
             <img
               src={`img/hero/${heroContent.heroMobileImage}`}
               className="img-fluid main-img-mobile d-sm-block d-lg-none"
-              alt="photo de profil"
+              alt="logo de profil"
             />
             <h1 className="text-uppercase poppins-font">
               {heroContent.heroTitleName}.
