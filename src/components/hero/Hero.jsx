@@ -7,8 +7,7 @@ const heroContent = {
   heroMobileImage: "img-mobile.png",
   heroTitleName: "Flavien Groslevin",
   heroDesignation: "Développeur Web et Web Mobile",
-  heroDescriptions: `Après quelques années en tant que commercial et une création d'entreprise dans le e-commerce qui m'a permis d'obtenir les bases du développement web. Cette passion pour cette activité au fil du temps m'a amené à entreprendre un titre professionnel. Aujourd'hui Je suis un concepteur de sites Web et un développeur full stack junior. Je suis passionné par le développement et recherche un emploi dans ce secteur. 
-  `,
+  heroDescriptions: `Après quelques années en tant que commercial et une création d'entreprise dans le e-commerce qui m'a permis d'obtenir les bases du développement web. Cette passion pour cette activité au fil du temps m'a amené à entreprendre un titre professionnel. Aujourd'hui, je suis un concepteur de sites Web et un développeur full stack junior. Je suis passionné par le développement et recherche un emploi dans ce secteur.`,
   heroBtn: "En savoir plus sur moi",
 };
 

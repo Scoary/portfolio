@@ -1,6 +1,6 @@
 import React from "react";
 
-const ModalOneContent = () => {
+const ModalThreeContent = () => {
   return (
     <div className="slideshow">
       <figure>
@@ -69,4 +69,4 @@ const ModalOneContent = () => {
   );
 };
 
-export default ModalOneContent;
+export default ModalThreeContent;
